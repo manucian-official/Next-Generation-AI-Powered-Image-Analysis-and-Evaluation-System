@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Mona Lisa",
+        "content": "A portrait painting by Leonardo da Vinci.",
+        "date": "1503",
+        "artist": "Leonardo da Vinci",
+        "rating": 4.8,
+        "image": "monalisa.jpg",
+        "link": "https://en.wikipedia.org/wiki/Mona_Lisa"
+    },
+    {
+        "title": "Starry Night",
+        "content": "A night sky painting by Vincent van Gogh.",
+        "date": "1889",
+        "artist": "Vincent van Gogh",
+        "rating": 5.0,
+        "image": "starrynight.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Starry_Night"
+    },
+    {
+        "title": "Mona Lisa",
+        "content": "A portrait painting by Leonardo da Vinci.",
+        "date": "1503",
+        "artist": "Leonardo da Vinci",
+        "rating": 4.8,
+        "image": "monalisa.jpg",
+        "link": "https://en.wikipedia.org/wiki/Mona_Lisa"
+    },
+    {
+        "title": "Starry Night",
+        "content": "A night sky painting by Vincent van Gogh.",
+        "date": "1889",
+        "artist": "Vincent van Gogh",
+        "rating": 5.0,
+        "image": "starrynight.jpg",
+        "link": "https://en.wikipedia.org/wiki/The_Starry_Night"
+    }
+]
