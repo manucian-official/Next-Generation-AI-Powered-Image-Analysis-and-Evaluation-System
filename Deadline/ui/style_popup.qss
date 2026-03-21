@@ -1,0 +1,23 @@
+QDialog {
+    background-color:rgb(56, 134, 224);
+    color: white;
+    font-family: Arial;
+}
+
+QLineEdit, QDateEdit {
+    background-color:rgb(23, 146, 228);
+    border: 1px solid #555;
+    padding: 5px;
+    color: white;
+}
+
+QPushButton, QToolButton {
+    background-color: #4CAF50;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+
+QPushButton:hover {
+    background-color: #45a049;
+}
